@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Visit Hyderabad</string>
+
+
+    <string name="p1_name">Sindh Museum</string>
+    <string name="p1_description">This museum is home to a vast collection of archaeological artifacts,
+        including Gandhara sculptures, Indus Valley seals, and Islamic art.</string>
+
+    <string name="p2_name">Tombs of Talpur Mirs</string>
+    <string name="p2_description">Also known as "Meeran Ja Qubba". These tombs are the resting place of the
+        Talpur rulers of Hyderabad, and are a fine example of Sindhi architecture.</string>
+
+    <string name="p3_name">Mukhi House</string>
+    <string name="p3_description">This is a beautifully restored 19th-century mansion, which is now a museum
+        of Sindhi culture.</string>
+
+    <string name="p4_name">Kotri Barrage</string>
+    <string name="p4_description">This barrage is a major irrigation project on the Indus River, and is a
+        popular spot for fishing and boating.</string>
+
+    <string name="p5_name">Badshahi Bungalow</string>
+    <string name="p5_description">The Badshahi Bungalow is the Palace of Prince Mir Hassan Ali Khan Talpur,
+        the son of the last ruler of Hyderabad Mir Naseer Khan Talpur.</string>
+
+    <string name="p6_name">Rani Bagh</string>
+    <string name="p6_description">This is a beautiful garden, which is a popular spot for picnics and relaxation.</string>
+
+    <string name="p7_name">Pakka Qilla</string>
+    <string name="p7_description">This fort was built by the Kalhora rulers in the 18th century, and is now a
+        popular tourist attraction.</string>
+
+    <string name="p8_name">Sheedi Monument</string>
+    <string name="p8_description">General Hosh Muhammad Sheedi Qambrani was an Askari unit, and also supreme commander of
+        Talpur army. He fought against the British forces under Sir Charles James Napier at the Battle of Hyderabad, and
+        was killed during battle on 24 March 1843.</string>
+
+    <string name="p9_name">Navalrai Clock Tower</string>
+    <string name="p9_description">This clock tower was built in the 19th century, and is a popular landmark in Hyderabad.</string>
+
+    <string name="p10_name">Qadam Gah Maula Ali</string>
+    <string name="p10_description">This is a shrine dedicated to the Prophet Muhammad\'s cousin, Ali. The Qadam Gah has
+        been a bastion of peace even when Hyderabad was reeling from ethnic riots.</string>
+
+    <string name="p11_name">Kotri Bridge</string>
+    <string name="p11_description">This bridge is located on the Indus River, and is a major transportation link between
+        Hyderabad and Karachi.</string>
+
+    <string name="p12_name">Hyderabad Gymkhana</string>
+    <string name="p12_description">This is a social club, which was founded in the 1870s.</string>
+
+    <string name="p13_name">Hasrat Mohani Library</string>
+    <string name="p13_description">The library was built in 1905 as Homestead Hall in the honor of Dr. Homestead, a
+        well-known surgeon of Hyderabad. It is the oldest library in the city of Hyderabad.</string>
+
+    <string name="p14_name">Niaz Stadium</string>
+    <string name="p14_description">The Niaz Stadium is a cricket ground. The ground has a capacity of 15,000, and hosted
+        its first test match in 1973. It was established in November 1961 by then Commissioner of Hyderabad, Niaz Ahmed. Pakistan
+        has never lost any match, whether a test or one-day, at this ground.</string>
+
+    <string name="p15_name">Ganjo Takkar</string>
+    <string name="p15_description">It is a small limestone range in Hyderabad District, that runs nearly due south parallel to the
+        Indus for about 14 miles.</string>
+
+    <string name="p16_name">Auto Bhan Road</string>
+    <string name="p16_description">Auto Bhan Road is a major road in Hyderabad. It is located in the Latifabad area of the city.
+        The road is named after the late Ghulam Mustafa Khan Auto Bhan, who was a politician and philanthropist.
+        \nIt is a busy road with a lot of traffic. It is lined with shops, restaurants, and other businesses.
+        The road is also home to a number of educational institutions</string>
+
+    <string name="p17_name">Tomb of Mian Ghulam Shah Kalhoro</string>
+    <string name="p17_description">The tomb of Mian Ghulam Shah Kalhora, the founder of Hyderabad, is one of the most important
+        monuments of the city and represents the typical architecture of Kalhora’s period.</string>
+
+    <string name="p18_name">Shahi Bazaar</string>
+    <string name="p18_description">It is one of the longest bazaar in Asia. The market begins from Pakka Qilla and concludes at
+        Market Tower.</string>
+
+    <string name="p19_name">Eid Gah Hyderabad</string>
+    <string name="p19_description">It is a large open space that is used for Eid prayers and other religious gatherings. It
+        is also a popular spot for picnics and relaxation.</string>
+
+    <string name="p20_name">University of Sindh Old Campus</string>
+    <string name="p20_description">Also known as Elsa Kazi Campus. It was founded in 1947 and is the oldest university in
+        Sindh. The campus is spread over 120 acres and houses a number of academic buildings, residential halls, and
+        sports facilities. </string>
+
+    <string name="p21_name">Boulevard Mall</string>
+    <string name="p21_description">This is the largest shopping mall in Hyderabad, with a variety of stores, restaurants,
+        and entertainment options.</string>
+
+    <string name="p22_name">Dubbo War Memorial</string>
+    <string name="p22_description">The Battle of Dubbo was fought on 24 March 1843 between the forces of British East India
+        company and the Talpur Emirs of Sindh near Hyderabad. The battle ground of Dubbo, for the first time earmarked by the
+        Britishers. They erected a monumental stone bearing the details of the casualties. Besides the monument lies graveyard
+        of Talpur martyrs.</string>
+
+    <string name="expand_button_content_description">See more or less information about a place.</string>
+    <string name="description">Description</string>
+
+
+</resources>
